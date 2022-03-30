@@ -1,4 +1,4 @@
-### Hi there, I'm Marko - aka MistyDev 👋 
+### Hi there, I'm Marko 👋 
 
 ## I'm a 20 Year old Full Stack Blockchain Developer
 
