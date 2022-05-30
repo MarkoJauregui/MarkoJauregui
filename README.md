@@ -3,7 +3,7 @@
 ## I'm a 20 Year old Full Stack Blockchain Developer
 
 - 🔭 Have worked with artists on making their NFT dreams come true!
-- 🥅 2022 Goals: Getting to work on new projects and sharpen my skills
+- 🥅 2022 Goals: Getting to work on new projects and sharpen my skills and hopefully get a full time job!
 - ⚡ Fun fact: I'm also experienced with game development 
 
 ### Connect with me:
@@ -28,8 +28,6 @@
 <img align="left" alt="Truffle" width="26px" src="https://miro.medium.com/max/400/1*P-T7USHsmPYOSBorXAqXYA.png" />
 <img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Unity" width="26px" src="https://w7.pngwing.com/pngs/911/748/png-transparent-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics-company-thumbnail.png" />
-<img align="left" alt="Unreal Engine" width="26px" src="https://img2.freepng.es/20180417/lyq/kisspng-unreal-tournament-unreal-engine-4-game-engine-marketplace-5ad659d01e4e40.5438490515239971361241.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
