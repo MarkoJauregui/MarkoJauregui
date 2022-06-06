@@ -1,6 +1,6 @@
 ### Hi there, I'm Marko 👋 
 
-## I'm a 20 Year old Full Stack Blockchain Developer
+## Full Stack Web3 Developer
 
 - 🔭 Have worked with artists on making their NFT dreams come true!
 - 🥅 2022 Goals: Getting to work on new projects and sharpen my skills and hopefully get a full time job!
