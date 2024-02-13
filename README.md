@@ -3,7 +3,7 @@
 ## I'm a 21 Year old Full Stack Blockchain Developer
 
 - 🔭 Have worked with artists on making their NFT dreams come true!
-- 🥅 2023 Goals: Getting to work on new projects and sharpen my skills and hopefully get a full time job!
+- 🥅 2024 Goals: Getting to work on new projects and sharpen my skills and hopefully get a full time job!
 
 ### Connect with me:
 
