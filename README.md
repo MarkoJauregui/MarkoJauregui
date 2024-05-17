@@ -1,19 +1,23 @@
 ### Hi there, I'm Marko 👋 
 
-## I'm a 21 Year old Full Stack Blockchain Developer
+## I'm a Full Stack Blockchain Developer
 
 - 🔭 Have worked with artists on making their NFT dreams come true!
-- 🥅 2024 Goals: Getting to work on new projects and sharpen my skills and hopefully get a full time job!
+- 🌐 Proficient in smart contract development, security, and scalable blockchain infrastructures.
+- 💼 Experienced with ERC721, ERC1155, and ERC20 smart contract development, including Stablecoins, NFT marketplaces, and DEX.
+- 🚀 Passionate about leveraging blockchain to innovate within the financial sector.
+- 🛠️ Skilled in Solidity, JavaScript, Hardhat, Foundry, and other pivotal technologies.
+- 📍 Based in Buenos Aires, Argentina.
+- 🥅 2024 Goals: Work on new projects, sharpen my skills, and secure a full-time job!
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Marko Jauregui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Marko Jauregui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Solidity" width="26px" src="https://png1.12png.com/7/25/16/J1HPTcPJhc/logo-computer-programming-black-and-white-brand.jpg" />
 <img align="left" alt="Hardhat" width="26px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
