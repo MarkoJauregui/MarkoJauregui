@@ -1,45 +1,26 @@
-### Hi there, I'm Marko 👋 
 
-## I'm a Full Stack Blockchain Developer
+<h2> Hello World! I'm Marko <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 Have worked with artists on making their NFT dreams come true!
-- 🌐 Proficient in smart contract development, security, and scalable blockchain infrastructures.
-- 💼 Experienced with ERC721, ERC1155, and ERC20 smart contract development, including Stablecoins, NFT marketplaces, and DEX.
-- 🚀 Passionate about leveraging blockchain to innovate within the financial sector.
-- 🛠️ Skilled in Solidity, JavaScript, Hardhat, Foundry, and other pivotal technologies.
-- 📍 Based in Buenos Aires, Argentina.
-- 🥅 2024 Goals: Work on new projects, sharpen my skills, and secure a full-time job!
+
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+## About
+
+Passionate Full Stack Blockchain Developer with expertise in smart contract development and security. Currently working as a Software Engineer Intern at Rather Labs. My journey includes creating NFT collections, stablecoins, and decentralized exchanges, all while constantly exploring new technologies and methodologies. I thrive on building solutions that bridge the gap between traditional development and blockchain innovation.
 
 ### Connect with me:
-
-[<img align="left" alt="Marko Jauregui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Marko Jauregui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://x.com/delinkedeth">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/marko-jauregui/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Solidity" width="26px" src="https://png1.12png.com/7/25/16/J1HPTcPJhc/logo-computer-programming-black-and-white-brand.jpg" />
-<img align="left" alt="Hardhat" width="26px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
-<img align="left" alt="Truffle" width="26px" src="https://miro.medium.com/max/400/1*P-T7USHsmPYOSBorXAqXYA.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SCSS" width="26px" src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" />
-<img align="left" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <br />
 
-<!-- [website]:  -->
+![Marko github stats](https://github-readme-stats.vercel.app/api?username=markojauregui&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[twitter]: https://twitter.com/marko_jauregui
-[linkedin]: https://www.linkedin.com/in/marko-jauregui-baa639230/
+![Marko github streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkoJauregui&theme=radical&include_all_commits=true&count_private=true)
+
+
