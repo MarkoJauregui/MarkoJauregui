@@ -2,10 +2,9 @@
 <h2> Hello World! I'm Marko <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+### About
 
-## About
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 Passionate Full Stack Blockchain Developer with expertise in smart contract development and security. Currently working as a Software Engineer Intern at Rather Labs. My journey includes creating NFT collections, stablecoins, and decentralized exchanges, all while constantly exploring new technologies and methodologies. I thrive on building solutions that bridge the gap between traditional development and blockchain innovation.
 
 ### Connect with me:
