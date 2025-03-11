@@ -7,7 +7,7 @@ Passionate Full Stack Blockchain Developer with expertise in smart contract deve
 
 ### Connect with me:
 
-<a href="https://x.com/delinkedeth">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://x.com/delinkedeth">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/marko-jauregui/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@markojauregui">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <br />
