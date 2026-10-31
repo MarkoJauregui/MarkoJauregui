@@ -21,7 +21,6 @@ My background also includes **Solidity and DeFi**: smart contracts, cross-chain 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-111827?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue%203-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-Jotai
 
 **Backend & data**
 
