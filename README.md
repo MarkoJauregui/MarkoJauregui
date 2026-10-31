@@ -1,6 +1,6 @@
 <h2>Hello, I'm Marko <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="Waving hand"></h2>
 
-<h3>**Full-stack engineer · TypeScript, React/Next.js & Node/NestJS · Buenos Aires**</h3>
+<h3>Full-stack engineer · TypeScript, React/Next.js & Node/NestJS · Buenos Aires</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" alt="Animated Octocat">
 
