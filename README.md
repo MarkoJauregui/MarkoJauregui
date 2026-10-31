@@ -14,29 +14,44 @@ My background also includes **Solidity and DeFi**: smart contracts, cross-chain 
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-111827?style=for-the-badge&logo=tanstack&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-Jotai · TanStack Query · Vue 3
+Jotai
 
 **Backend & data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-TypeORM · Prisma · Express · Auth0 · REST APIs · WebSockets
+REST APIs · WebSockets
 
 **Agent workflows**
 
-Claude Code · MCP · Agent skills
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-303030?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+Agent skills · Claude API training
 
 [Claude Certified Architect - Foundations](https://verify.skilljar.com/c/ozho5sd9f9fx) · Issued June 2026, expires December 2026
 
 **Blockchain**
 
-Solidity · EVM · Foundry · Hardhat · ethers.js · Chainlink CCIP
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum / EVM](https://img.shields.io/badge/Ethereum%20%2F%20EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
+![Chainlink CCIP](https://img.shields.io/badge/Chainlink%20CCIP-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
+Foundry · Hardhat
 
 ### What I'm working on
 
